@@ -6,8 +6,11 @@ A Basic Flutter Application that displays the news of Business, Sports, and Scie
 Dart Programming language
 
 Flutter Framework
+
 News API handled by Dio Package 
+
 Bloc(cubit) as State management
+
 Change the theme of the app using shared preferences 
 
 
