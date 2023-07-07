@@ -1,16 +1,16 @@
 # News App
 
-A Basic Flutter Application that displays the news of Business, Sports and
+A Basic Flutter Application that displays the news of Business, Sports, and Science in Egypt.
 
-## Getting Started
+## Technologies
+Dart Programming language
+Flutter Framework
+News API handled by Dio Package 
+Bloc(cubit) as State management
+Change the theme of the app using shared preferences 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can download the app through the link below
+https://drive.google.com/file/d/1q3bND_O68Zx2VctoyX7Adri9TxhsoPyd/view?usp=sharing
