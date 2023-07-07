@@ -4,6 +4,7 @@ A Basic Flutter Application that displays the news of Business, Sports, and Scie
 
 ## Technologies
 Dart Programming language
+
 Flutter Framework
 News API handled by Dio Package 
 Bloc(cubit) as State management
