@@ -1,6 +1,6 @@
-# news
+# News App
 
-A new Flutter project.
+A Basic Flutter Application that displays the news of Business, Sports and
 
 ## Getting Started
 
