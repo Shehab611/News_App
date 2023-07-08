@@ -17,4 +17,5 @@ Change the theme of the app using shared preferences
 ## Installation
 
 You can download the app through the link below
-https://drive.google.com/file/d/1q3bND_O68Zx2VctoyX7Adri9TxhsoPyd/view?usp=sharing
+
+https://drive.google.com/file/d/1EeMSPee3RAEAARu_yurXf4yhcMNdQD9y/view?usp=sharing
